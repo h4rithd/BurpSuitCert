@@ -1,0 +1,6 @@
+id=burpsuite-cert
+name=BurpSuiteCert
+version=1.0
+versionCode=1
+author=Harith Dilshan (h4rithd.com)
+description=Injects BurpSuite CA certificates into Android trust store, including APEX support for Android 14+
