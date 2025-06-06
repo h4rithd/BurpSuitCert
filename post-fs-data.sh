@@ -63,3 +63,4 @@ if [ -d "$APEX_CA_DIR" ]; then
 else
     echo "⚠️ APEX CA directory not found. Skipping injection."
 fi
+create a read me file for the above script. this module is used to install Burp Suite CA certificate on Android devices. and module name is BurpSuiteCert and give me the markdown fle as downloadable
